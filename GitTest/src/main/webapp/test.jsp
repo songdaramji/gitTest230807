@@ -7,6 +7,6 @@
 <title>test.jsp</title>
 </head>
 <body>
-
+<h1>파일수정</h1>
 </body>
 </html>
